@@ -1,0 +1,9 @@
+Hii! I am Sumit Soni
+To use Face Counter follow the steps: 
+step1: install python 3.7 or above
+step2: install pip
+step3: Windows+R and type cmd
+step4: In cmd, type pip install opencv-python
+step5: In cmd, type pip install pygame
+step6: In cmd, type pip install numpy
+step7: run the main.py file using pythonIDLE
